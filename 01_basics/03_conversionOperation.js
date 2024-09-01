@@ -5,7 +5,7 @@ let score = "hitesh"
 
 let valueInNumber = Number(score)
 console.log(typeof valueInNumber); // number
-console.log(valueInNumber); // NaN
+// console.log(valueInNumber); // NaN
 // "33" => 33
 // "33abc" => NaN
 //  true => 1; false => 0
@@ -15,7 +15,7 @@ console.log(valueInNumber); // NaN
 let isLoggedIn = "hitesh"
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-//  console.log(booleanIsLoggedIn);
+ console.log(booleanIsLoggedIn); // 
 
 // 1 => true; 0 => false
 // "" => false
